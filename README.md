@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wiktor Pacewicz</h1>
 <h3 align="center">Backend C# developer from Poland. Second year student at WSEI in Cracow.</h3>
 
-- 🔭 I’m currently working on [HR-ManagementApp](https://github.com/Zabernik/HR-ManagementApp)
+- 🔭 I’m currently working on [GM - Goods Management](https://github.com/Zabernik/Goods-Management)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zabernik?tab=repositories](https://github.com/Zabernik?tab=repositories)
 
