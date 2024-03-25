@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GM - Goods Management](https://github.com/Zabernik/Goods-Management)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zabernik?tab=repositories](https://github.com/Zabernik?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/Zabernik?tab=repositories)
 
 - 📫 How to reach me **w.b.pacewicz@gmail.com**
 
