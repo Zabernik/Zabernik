@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiktor Pacewicz</h1>
-<h3 align="center">Backend C# developer from Poland. Second year student at WSEI in Cracow.</h3>
+<h3 align="center">Backend C# developer from Poland. Third year student at WSEI in Cracow.</h3>
 
 - 🔭 I’m currently working on [MB-MyBudget](https://github.com/Zabernik/MyBudget)
 
